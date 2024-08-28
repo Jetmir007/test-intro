@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\proggramering\bin\Debug\net8.0\proggramering.exe
+C:\Users\Admin\Documents\proggramering\bin\Debug\net8.0\proggramering.deps.json
+C:\Users\Admin\Documents\proggramering\bin\Debug\net8.0\proggramering.runtimeconfig.json
+C:\Users\Admin\Documents\proggramering\bin\Debug\net8.0\proggramering.dll
+C:\Users\Admin\Documents\proggramering\bin\Debug\net8.0\proggramering.pdb
+C:\Users\Admin\Documents\proggramering\obj\Debug\net8.0\proggramering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\proggramering\obj\Debug\net8.0\proggramering.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\proggramering\obj\Debug\net8.0\proggramering.AssemblyInfo.cs
+C:\Users\Admin\Documents\proggramering\obj\Debug\net8.0\proggramering.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\proggramering\obj\Debug\net8.0\proggramering.dll
+C:\Users\Admin\Documents\proggramering\obj\Debug\net8.0\refint\proggramering.dll
+C:\Users\Admin\Documents\proggramering\obj\Debug\net8.0\proggramering.pdb
+C:\Users\Admin\Documents\proggramering\obj\Debug\net8.0\proggramering.genruntimeconfig.cache
+C:\Users\Admin\Documents\proggramering\obj\Debug\net8.0\ref\proggramering.dll
